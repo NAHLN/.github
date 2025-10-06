@@ -16,3 +16,7 @@ Coordinated information for the development of standard operating procedures.
 ## Applications
 
 NAHLN developers contribute these open source projects.
+
+### Hybrid GUI/Command line client
+
+[The prototype in David King's repository](https://github.com/meekrob/rash)
