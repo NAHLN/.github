@@ -1,6 +1,10 @@
 # NAHLN
 This is the organizational center for coding projects in the NAHLN.
 
+**People**
+
+Here are some people. 
+
 ## NGS
 
 Workflows for various types of data and analyses.
